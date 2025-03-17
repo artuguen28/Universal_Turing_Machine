@@ -1,2 +1,2 @@
-# Universal_Turing_Machine
- Repositório para desenvolvimento de uma Máquina de Turing Universal na linguagem python. python.
+# Universal Turing Machine
+ Repo to a basic implementation of a Universal Turing Machine
